@@ -64,8 +64,6 @@ Our ultimate objective is to become the Spotify for fashion.
 
 - Zi Zheng (Team Lead)
 - Kyle Shervington (Developer)
-- Alika Grigorova (Project manager)
-- Anna Sokolova (Project manager)
 
 ### Team Website
 
